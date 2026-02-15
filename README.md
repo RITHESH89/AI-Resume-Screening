@@ -1,5 +1,3 @@
-# AI-Resume-Screening
-
 # AI Resume Screening System
 
 This project is a simple AI-based Resume Screening System built using Python and Streamlit.
