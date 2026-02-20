@@ -67,34 +67,11 @@ The dataset (`UpdatedResumeDataSet.csv`) contains resumes along with their respe
    - The project concludes by providing insights into the performance of the resume screening model and its ability to categorize resumes accurately.
 
 
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/raghavendranhp/Resume_screening.git
-   cd your-repository
-   ```
-
 2. Install dependencies:
 3. Run the Jupyter Notebook:
 4. Follow the instructions in the notebook to execute code cells and explore the project.
 
 ## Results
 The project achieves [mention accuracy or any other relevant metrics] on the test set. The model has been trained using [algorithm] and exhibits robust performance in categorizing resumes.
-
-## Contributing
-I welcome contributions! If you have suggestions, improvements, or new features to add, please fork the repository and submit a pull request.
-
-## License
-This project is under the MIT License.
-
-## Author
-Raghavendran S,  
-Aspiring Data Scientist  
-[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)  
-raghavendranhp@gmail.com  
-
-Thank You !  
-Happy Enjoying !
 
 
