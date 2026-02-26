@@ -3,3 +3,4 @@ pdfplumber
 scikit-learn
 python
 pandas
+numpy
