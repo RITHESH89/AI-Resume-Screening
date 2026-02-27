@@ -3,7 +3,7 @@
 ## Overview
 This project involves the application of machine learning techniques for the screening of resumes. The goal is to categorize resumes into different job categories using natural language processing and classification algorithms.
 
-## Prerequisites
+## Technologies
 Ensure you have the following libraries installed:
 - NumPy
 - Pandas
