@@ -10,8 +10,6 @@ Ensure you have the following libraries installed:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- NLTK
-- Wordcloud
 
 You can install them using the following command:
 ```bash
