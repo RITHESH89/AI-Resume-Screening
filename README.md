@@ -5,7 +5,7 @@ This project involves the application of machine learning techniques for the scr
 
 ## Technologies
 Ensure you have the following libraries installed:
--Python
+-
 - NumPy
 - Pandas
 - Matplotlib
