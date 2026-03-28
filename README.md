@@ -15,7 +15,7 @@ Ensure you have the following libraries installed:
 You can install them using the following command:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn nltk wordcloud
-```
+
 
 ## Data
 The dataset (`UpdatedResumeDataSet.csv`) contains resumes along with their respective categories. The project involves cleaning the resume text, visualizing the data distribution, and applying machine learning algorithms for classification.
