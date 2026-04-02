@@ -12,8 +12,7 @@ Ensure you have the following libraries installed:
 - Seaborn
 - Scikit-learn
 
-You can install them using the following command:
-```bash
+
 pip install numpy pandas matplotlib seaborn scikit-learn nltk wordcloud
 
 
