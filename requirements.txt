@@ -1,7 +1,8 @@
-python
 numpy
 pandas
 scikit-learn
-seaborn
-matplotlib
-pandas
+nltk
+spacy
+pdfplumber
+python-docx
+streamlit
