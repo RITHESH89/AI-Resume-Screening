@@ -14,7 +14,7 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 
 ## Technologies
 - Python
-- NLP (TF-IDF / Text Processing)
+- NLP ( Text Processing)
 - Scikit-learn
 - Pandas & NumPy
 
