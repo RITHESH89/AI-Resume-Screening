@@ -1,4 +1,4 @@
-#  AI Resume Screening system
+#  AI Resume Screening 
 
 An AI-powered system that automatically analyzes and ranks resumes based on job descriptions using Natural Language Processing (NLP) and Machine Learning.
 
