@@ -31,8 +31,6 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 
 #  **Conclusion:**
    - The project concludes by providing insights into the performance of the resume screening model and its ability to categorize resumes accurately.
-
-
 2. Install dependencies:
 3. Run the Jupyter Notebook:
 4. Follow the instructions in the notebook to execute code cells and explore the project.
