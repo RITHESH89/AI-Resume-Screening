@@ -6,3 +6,9 @@ spacy
 pdfplumber
 python-docx
 streamlit
+streamlit
+langchain
+openai
+python-dotenv
+faiss-cpu
+sentence-transformers
