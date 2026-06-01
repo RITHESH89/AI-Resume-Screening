@@ -6,3 +6,4 @@ python-docx
 streamlit
 langchain
 openai
+python-dotenv
