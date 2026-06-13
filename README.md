@@ -10,6 +10,7 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 - Job description matching
 - Skill-based candidate ranking
 - NLP preprocessing & feature engineering
+- Automated scoring system
 
 
 ## Technologies
