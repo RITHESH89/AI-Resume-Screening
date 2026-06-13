@@ -12,7 +12,6 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 - NLP preprocessing & feature engineering
 - Automated scoring system
 
-
 ## Technologies
 - Python
 - NLP ( Text Processing)
