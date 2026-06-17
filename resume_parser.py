@@ -1,4 +1,1 @@
-from pypdf import PdfReader
 
-]
- 
