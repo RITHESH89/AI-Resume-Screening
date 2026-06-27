@@ -7,8 +7,6 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 
 ##  Features
 - Resume text extraction
-- - Resume text extraction
-- Job description matching
 
 ## Technologies
 - Python
