@@ -6,6 +6,7 @@ An AI-powered system that automatically analyzes and ranks resumes based on job 
 This project helps recruiters quickly shortlist candidates by comparing resumes with job requirements and calculating match scores intelligently.
 
 ##  Features
+- Resume text extraction
 
 ## Technologies
 - Python
