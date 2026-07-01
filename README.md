@@ -8,7 +8,7 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 ##  Features
 - Resume text extraction
 - Job description matching
-- Skill-based candidate ranking
+
 
 
 ## Technologies
