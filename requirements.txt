@@ -4,4 +4,3 @@ scikit-learn
 pdfplumber
 python-docx
 streamlit
-langchain
