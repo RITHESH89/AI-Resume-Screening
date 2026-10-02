@@ -9,7 +9,6 @@ This project helps recruiters quickly shortlist candidates by comparing resumes 
 - Resume text extraction
 - Job description matching
 - Skill-based candidate ranking
-- NLP preprocessing & feature engineering
   
 
 ## Technologies
