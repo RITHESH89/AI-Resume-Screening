@@ -5,4 +5,4 @@ pdfplumber
 python-docx
 streamlit
 langchain
-openai
+
